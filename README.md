@@ -56,4 +56,4 @@ Thank you for taking the time to complete and submit this assessment.
 
 ### Summary - Ryan Chan
 
-My approach to this web page was to have a simplistic look. I wanted to add more animations/effects but I felt that it takes away from the main part which is to showcase the OTSU team. I removed the \* selector for margin, padding and box-sizing so that I can adjust the spacing. I also decided to use tailwind css to easily add responsiveness to the webpage without needing to change any of the prexisiting css. For the team member card, I removed the rounded on the pictures to show the alt text clearering when the image is not loading.
+My approach to this web page was to have a simplistic look. I wanted to add more animations/effects but I felt that it takes away from the main part which is to showcase the OTSU team. I removed the \* selector for margin, padding and box-sizing so that I can adjust the spacing. I also decided to use tailwind css to easily add responsiveness to the webpage without needing to change any of the prexisiting css. For the team member card, I removed the rounded on the pictures to show the alt text clearer when the image is not loading.
